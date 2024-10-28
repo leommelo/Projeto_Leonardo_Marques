@@ -7,7 +7,7 @@ public class C {
         return C1;
     }
 
-    public void setC1(int C1) {
+    public void setC1(String C1) {
         this.C1 = C1;
     }
 
@@ -15,7 +15,7 @@ public class C {
         return C2;
     }
 
-    public void setB2(float B2) {
+    public void setC2(int C2) {
         this.C2 = C2;
     }
 
