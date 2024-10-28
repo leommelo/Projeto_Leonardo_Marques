@@ -11,7 +11,7 @@ public class C {
         this.C1 = C1;
     }
 
-    public int getC2() {
+    public float getC2() {
         return C2;
     }
 
@@ -26,6 +26,10 @@ public class C {
 
     public void MC2() {
         System.out.println("Método MC2");
+    }
+
+    public void MC3() {
+        System.out.println("Método MC3");
     }
 }
 
