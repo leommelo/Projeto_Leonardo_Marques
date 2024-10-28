@@ -28,7 +28,5 @@ public class D {
         System.out.println("Método MD2");
     }
 
-    public void MD3() {
-        System.out.println("Método MD3");
-    }
+    
 }
