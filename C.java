@@ -1,9 +1,9 @@
 public class C {
-    private int C1;
-    private float C2;
+    private String C1;
+    private int C2;
 
     // Getters e Setters
-    public int getC1() {
+    public String getC1() {
         return C1;
     }
 
@@ -11,7 +11,7 @@ public class C {
         this.C1 = C1;
     }
 
-    public float getC2() {
+    public int getC2() {
         return C2;
     }
 
